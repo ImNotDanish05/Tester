@@ -46,8 +46,11 @@
         <mxCell id="B3tFRcSrZccq1whW2Yeb-11" value="Prima = 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B3tFRcSrZccq1whW2Yeb-12" value="Banyak = Berapa kali penjumlahan prima diulang&lt;br&gt;Hasil = Hasil dari penjumlahan&lt;div&gt;Prima = Angka-angka prima&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="10" width="310" height="140" as="geometry" />
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-12" value="Banyak (Counter)= Berapa kali penjumlahan prima diulang&lt;br&gt;Hasil (Result) = Hasil dari penjumlahan&lt;div&gt;Prima (Add) = Angka-angka prima&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="10" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-13" target="B3tFRcSrZccq1whW2Yeb-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B3tFRcSrZccq1whW2Yeb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
@@ -57,6 +60,33 @@
             <mxPoint x="260" y="290" as="sourcePoint" />
             <mxPoint x="310" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-16" value="i = 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-17" target="B3tFRcSrZccq1whW2Yeb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-22" value="i &amp;lt; Banyak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-23" target="B3tFRcSrZccq1whW2Yeb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-25" value="j = 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-28" value="j &amp;lt; Prima" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
