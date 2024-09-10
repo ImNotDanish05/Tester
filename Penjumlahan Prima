@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Halaman-1" id="SLpaepf2see9lW78XqS9">
-    <mxGraphModel>
+    <mxGraphModel dx="818" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-1" target="B3tFRcSrZccq1whW2Yeb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-4" value="Mulai" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-5" value="Masukan&amp;nbsp;&lt;div&gt;Banyak&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-2" target="B3tFRcSrZccq1whW2Yeb-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-8" value="Hasil = 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-6" target="B3tFRcSrZccq1whW2Yeb-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-11" value="Prima = 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-12" value="Banyak = Berapa kali penjumlahan prima diulang&lt;br&gt;Hasil = Hasil dari penjumlahan&lt;div&gt;Prima = Angka-angka prima&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="10" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3tFRcSrZccq1whW2Yeb-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B3tFRcSrZccq1whW2Yeb-9" target="B3tFRcSrZccq1whW2Yeb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
