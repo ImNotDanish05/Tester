@@ -196,19 +196,19 @@
         <mxCell id="zZaAgnMH5x04vvrDWRIu-7" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vJRi6iaPqvc7q0EGjnzF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZaAgnMH5x04vvrDWRIu-8" target="vJRi6iaPqvc7q0EGjnzF-4">
+        <mxCell id="vJRi6iaPqvc7q0EGjnzF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zZaAgnMH5x04vvrDWRIu-8" target="vJRi6iaPqvc7q0EGjnzF-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zZaAgnMH5x04vvrDWRIu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJRi6iaPqvc7q0EGjnzF-3" value="Hasil = Hasil + Prima" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vJRi6iaPqvc7q0EGjnzF-3" value="Hasil = Hasil + Prima" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="435" y="655" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vJRi6iaPqvc7q0EGjnzF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vJRi6iaPqvc7q0EGjnzF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJRi6iaPqvc7q0EGjnzF-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vJRi6iaPqvc7q0EGjnzF-6" value="print(&#39;Hasil&#39; dan &quot;Prima&quot;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="735" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
