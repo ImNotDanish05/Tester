@@ -1311,7 +1311,7 @@
             <mxPoint x="625" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AaIIpuNR4koe8aVMjnw4-232" value="Tahap 5" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="AaIIpuNR4koe8aVMjnw4-232" value="Tahap 6" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="575" y="1520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AaIIpuNR4koe8aVMjnw4-233" value="1 = 0001&lt;div&gt;0001 =&amp;nbsp;Transfer dari memori ke accumulator &lt;br&gt;&lt;div&gt;562 = 0002&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
